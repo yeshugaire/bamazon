@@ -1,2 +1,3 @@
 # bamazon
-![Bamazon Client](images/1.png)
+![](https://github.com/yeshugaire/bamazon/blob/master/images/1.PNG)
+![](https://github.com/yeshugaire/bamazon/blob/master/images/2.PNG)
