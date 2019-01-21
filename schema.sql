@@ -12,7 +12,7 @@ product_sales INTEGER(10) NOT NULL DEFAULT 0,
 PRIMARY KEY (item_id)
 )
 
-NSERT INTO products SET product_name='Cell Phone', department_name='Electronics', price=550, stock_quantity=100; 
+INSERT INTO products SET product_name='Cell Phone', department_name='Electronics', price=550, stock_quantity=100; 
 INSERT INTO products SET product_name='Refrigerator', department_name=' Home Appliances', price=1100, stock_quantity=55;
 INSERT INTO products SET product_name='Power Blender', department_name=' Home Appliances', price=55, stock_quantity=22;
 INSERT INTO products SET product_name='Baby Alive', department_name='Kids Toys', price=38, stock_quantity=35;
